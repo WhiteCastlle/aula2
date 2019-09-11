@@ -16,7 +16,7 @@ public class Papelaria {
         }
         else
             {
-                System.out.printf("O valor total a ser pago é: "+(copias * 0.20));
+                System.out.println("O valor total a ser pago é: "+(copias * 0.20));
         }
 
     }
